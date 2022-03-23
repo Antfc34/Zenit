@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Инструкция тестнет Nosana Phase 1 – Telegraph</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="176" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Инструкция тестнет Nosana Phase 1">
+    <meta property="og:description" content="Переводим кошелек Phantom в сеть Testnet">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Telegraph">
+    <meta property="article:published_time" content="2022-03-19T10:09:07+0000">
+    <meta property="article:modified_time" content="2022-03-19T10:09:07+0000">
+    <meta property="article:author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Инструкция тестнет Nosana Phase 1">
+    <meta name="twitter:description" content="Переводим кошелек Phantom в сеть Testnet">
+    <meta name="twitter:image" content="">
+    <link rel="canonical" href="https://telegra.ph/Instrukciya-testnet-Nosana-Phase-1-03-19" />
+    <link rel="shortcut icon" href="/favicon.ico?1" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/images/favicon.png?1" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon_2x.png?1" sizes="32x32">
+    <link href="/css/quill.core.min.css" rel="stylesheet">
+    <link href="/css/core.min.css?46" rel="stylesheet">
+  </head>
+  <body>
+    <div class="tl_page_wrap">
+      <div class="tl_page">
+        <main class="tl_article">
+          <header class="tl_article_header" dir="auto">
+            <h1>Инструкция тестнет Nosana Phase 1</h1>
+            <address>
+              <a rel="author"></a><!--
+           --><time datetime="2022-03-19T10:09:07+0000">March 19, 2022</time>
+            </address>
+          </header>
+          <article id="_tl_editor" class="tl_article_content"><h1>Инструкция тестнет Nosana Phase 1<br></h1><address><br></address><p><br></p><h3 id="Переводим-кошелек-Phantom-в-сеть-Testnet">Переводим кошелек Phantom в сеть Testnet</h3><blockquote><a href="/GAJD-PO-KOSHELKU-PHANTOM-09-27">&quot;Инструкция, как создать кошелек Phantom&quot;</a></blockquote><p>Чтобы перевести Phantom в сеть Testnet, нажмите на шестеренку:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-15-49.png"><figcaption></figcaption></figure><p>Выберите «Изменить сеть»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-16-40.png"><figcaption></figcaption></figure><p>Выберите «Testnet»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-17-10.png"><figcaption></figcaption></figure><h3 id="Получаем-тестовые-токены">Получаем тестовые токены</h3><p>Перейдите на кран <a href="https://solfaucet.com/" target="_blank">Solfaucet </a>→ Укажите свой кошелек и нажмите «Testnet»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-21-21.png"><figcaption></figcaption></figure><h3 id="Создаем-репозиторий-Github">Создаем репозиторий Github</h3><p>Перейдите на сайт <a href="https://github.com/" target="_blank">Github</a> и создайте аккаунт, если у Вас его нет:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-27-52.png"><figcaption></figcaption></figure><p>После создания аккаунта нажмите на свой аватар в правом верхнем углу и нажмите «Your profile»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_11-29-27.png"><figcaption></figcaption></figure><p>На своей странице перейдите на вкладку «Repositories»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-22-39.png"><figcaption></figcaption></figure><p>Нажмите «New», чтобы создать новый репозиторий:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-21-47-1.png"><figcaption></figcaption></figure><p>Дайте своему репозиторию имя, измените доступ на «Public» и нажмите «Create repository»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-24-33-2.png"><figcaption></figcaption></figure><p>Далее нажмите «creating a new file», чтобы создать новый файл:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-26-35.png"><figcaption></figcaption></figure><p>Дайте файлу имя и напишите любой код</p><p><strong> </strong><em>(можно брать любой: из других репозиториев, часть кода блокчейнов и тд)</em></p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-30-38.png"><figcaption></figcaption></figure><p>В нижнем поле нажмите «Commit new file»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-31-52.png"><figcaption></figcaption></figure><h3 id="Подключаем-репозиторий">Подключаем репозиторий</h3><p>Перейдите <a href="https://testnet.nosana.io/" target="_blank">на сайт Nosana</a> и нажмите «Connect Wallet»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-16-13.png"><figcaption></figcaption></figure><p>Выберите кошелек «Phantom»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-17-43.png"><figcaption></figcaption></figure><p>Нажмите «Login» и подпишите транзакцию:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-18-19-1.png"><figcaption></figcaption></figure><p>На главной странице нажмите «Add Repository»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-34-45-1.png"><figcaption></figcaption></figure><p>Войдите с помощью Github, нажав «Authorize nosana-ci»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-35-28-1.png"><figcaption></figcaption></figure><p>Выберите репозиторий из списка и нажмите «Add...»:</p><blockquote>&quot;Если у вас есть личные проекты, то рекомендуем добавить их, тем самым шанс получения аирдропа будет выше&quot;</blockquote><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-37-17.png"><figcaption></figcaption></figure><p>На главной странице нажимаем «Request Funds»:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-38-00-1.png"><figcaption></figcaption></figure><p>В форме пишем свое имя и почту, также можете добавить описание проекта и свой Discord никнейм:</p><figure><img src="https://blog.crypton.academy/content/images/2022/03/2022-03-07_09-39-23-1.png"><figcaption></figcaption></figure><p>Подписываемся на <a href="https://discord.gg/gkRRqAGta4" target="_blank">Discord проекта</a> и <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxLuJjSmo9kvgps8QUN5hLgmoWaPnIpxL4C0OTPknEstBBbg/viewform" target="_blank">заполняем форму</a> и даем заявку на участие во <strong>второй фазе тестнета</strong></p><p>Даем своей фидбэк в <a href="https://discord.gg/gkRRqAGta4" target="_blank">дискорд</a> в разделе <em>&quot;testnet-launch&quot;</em></p><p>На данный момент это все, что можно сделать. Инструкция будет пополняться по мере обновления тестнета.</p><p>После Фазы 1 будет Фаза 2, рекомендуем заполнить эту <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxLuJjSmo9kvgps8QUN5hLgmoWaPnIpxL4C0OTPknEstBBbg/viewform" target="_blank">форму </a>для участия во Второй Фазе тестнета.</p><h3 id="Что-ожидать-от-тестнета?">Что ожидать от тестнета?</h3><p>По словам разработчиков, выбранные проекты получат по 500 &#036;NOS за присоединение к тестовой сети, также можно заработать до 10000 &#036;NOS за проявление активности в тестнете. Эти токены будут в тестовой сети, но они перейдут в основную сеть после запуска Nosana в мейннете.</p><p><br></p></article>
+          <div id="_tl_link_tooltip" class="tl_link_tooltip"></div>
+          <div id="_tl_tooltip" class="tl_tooltip">
+            <div class="buttons">
+              <span class="button_hover"></span>
+              <span class="button_group"><!--
+             --><button id="_bold_button"></button><!--
+             --><button id="_italic_button"></button><!--
+             --><button id="_link_button"></button><!--
+           --></span><!--
+           --><span class="button_group"><!--
+             --><button id="_header_button"></button><!--
+             --><button id="_subheader_button"></button><!--
+             --><button id="_quote_button"></button><!--
+           --></span>
+            </div>
+            <div class="prompt">
+              <span class="close"></span>
+              <div class="prompt_input_wrap"><input type="url" class="prompt_input" /></div>
+            </div>
+          </div>
+          <div id="_tl_blocks" class="tl_blocks">
+            <div class="buttons">
+              <button id="_image_button"></button><!--
+           --><button id="_embed_button"></button>
+            </div>
+          </div>
+          <aside class="tl_article_buttons">
+            <div class="account account_top"></div>
+            <button id="_edit_button" class="button edit_button">Edit</button><!--
+         --><button id="_publish_button" class="button publish_button">Publish</button>
+            <div class="account account_bottom"></div>
+            <div id="_error_msg" class="error_msg"></div>
+          </aside>
+        </main>
+      </div>
+    </div>
+    <div id="_tl_alerts" class="tl_alerts"></div>
+    
+    <script>var T={"apiUrl":"https:\/\/edit.telegra.ph","datetime":1647684547,"pageId":"005f05080eaf5b6796d4a"};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/jquery.selection.min.js"></script>
+    <script src="/js/autosize.min.js"></script>
+    <script src="/js/load-image.all.min.js?1"></script>
+    <script src="/js/quill.min.js?9"></script>
+    <script src="/js/core.min.js?62"></script>
+    <script async src="https://t.me/_websync_?path=Instrukciya-testnet-Nosana-Phase-1-03-19&hash=46f4f855f39b6e7669"></script>
+  </body>
+</html>
